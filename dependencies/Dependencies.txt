@@ -1,0 +1,3 @@
+C/C++ -> ../../dependencies/glm;../../dependencies/GLAD/include;../../dependencies/GLFW-3.3.2-libWIN32/include
+Vinculador -> ../../dependencies/GLFW-3.3.2-libWIN32/lib-vc2019
+	   -> glfw3.lib;opengl32.lib;%(AdditionalDependencies)
